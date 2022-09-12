@@ -12,6 +12,6 @@ public class ActionExam {
                 System.out.println("exec");
             }
         };
-        action.exec();
+        action1.exec();
     }
 }
